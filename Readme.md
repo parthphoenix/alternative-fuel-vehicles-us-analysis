@@ -61,7 +61,7 @@ Features include:
 
 ## 📸 Dashboard Preview
 
-![Dashboard](tableau/dashboard.png)
+![Dashboard](Tableau/dashboard.png)
 
 ---
 
